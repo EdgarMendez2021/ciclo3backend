@@ -40,6 +40,6 @@ public class UsuarioVO {
 		this.password = password;
 	}
 	
-	
+	//Pendiente 
 	
 }
