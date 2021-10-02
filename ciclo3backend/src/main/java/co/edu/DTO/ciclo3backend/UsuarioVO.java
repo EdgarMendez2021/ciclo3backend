@@ -1,7 +1,7 @@
 package co.edu.DTO.ciclo3backend;
 
 public class UsuarioVO {
-	//Otro comentario
+	//Otro comentario...
 	//Gracias Edgar
 	private long cedula_usuario;
 	private String nombre_usuario;
